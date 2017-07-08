@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Room Finder</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_post">PostActivity</string>
+
+    <string name="try_again">Reconnect</string>
+
+    <string-array name="cities">
+        <item>Jabalpur</item>
+        <item>Bhopal</item>
+        <item>Indore</item>
+        <item>Sihora</item>
+    </string-array>
+    <string-array name="mainCities">
+        <item>All</item>
+        <item>Jabalpur</item>
+        <item>Bhopal</item>
+        <item>Indore</item>
+        <item>Sihora</item>
+    </string-array>
+    <string-array name="userType">
+        <item>Owner</item>
+        <item>General User</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
